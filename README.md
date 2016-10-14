@@ -6,7 +6,7 @@
 
 ## Description
 
-Create dummy web page.
+Create Practice site to implement bootstrap css.
 
 ## Setup/Installation Requirements
 
@@ -23,4 +23,5 @@ _No known_
 1. html
 2. github
 3. css
+4. bootstrap
 
